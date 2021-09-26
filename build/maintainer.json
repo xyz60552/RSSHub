@@ -1,9 +1,18 @@
 {
+    "/8world/:category?": [
+        "nczitzk"
+    ],
+    "/aamacau/aamacau/:category?/:id?": [
+        "nczitzk"
+    ],
     "/epicgames/epicgames/:collection": [
         "DIYgod",
         "NeverBehave",
         "Zyx-A",
         "junfengP"
+    ],
+    "/eprice/:region?": [
+        "TonyRL"
     ],
     "/furstar/characters/:lang?": [
         "NeverBehave"
@@ -17,6 +26,9 @@
     "/test/:id": [
         "DIYgod",
         "NeverBehave"
+    ],
+    "/trow/portal": [
+        "shiningdracon"
     ],
     "/rsshub/rss": [],
     "/rsshub/routes": [],
@@ -1652,7 +1664,7 @@
     "/gamer/hot/:bsn": [],
     "/icity/:id": [],
     "/anki/changes": [],
-    "/abc/:site?": [],
+    "/abc/:id?": [],
     "/cna/:id?": [],
     "/huawei/xinsheng/:caty?/:order?/:keyword?": [],
     "/ow/patch": [],
